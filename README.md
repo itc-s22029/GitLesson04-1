@@ -1,6 +1,6 @@
 # あなたのいま1⃣番押しのアニメはなんですか？
 
-* m-akamine 「[ONE PIECE](https://one-piece.com/)  
+* m-akamine 「[ONE PIECE](https://one-piece.com/)」  
 * s21002  
 * s21004  
 * s21005  
