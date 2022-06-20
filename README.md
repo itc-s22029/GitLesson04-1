@@ -11,7 +11,7 @@
 * s21012  
 * s21013  
 * s21014  
-* s21015  
+* s21015 「[SPY×FAMILY](https://www.youtube.com/watch?v=pXH1bV7URhs&t=1s)」 
 * s21016  
 * s21017  
 * s21018  
@@ -20,4 +20,4 @@
 * s21021  
 * s21022  「[うちの３姉妹](https://ameblo.jp/pmatsumoto/)」
 * s21023  「[コードギアス反逆のルルーシュ](https://geass.jp/first/)」
-* s21025    
+* s21025  「[かぐや様は告らせたい](https://kaguya.love/)」
