@@ -7,7 +7,7 @@
 * s21007  
 * s21009 「[ヒロアカ](https://heroaca.com/)」 
 * s21010  
-* s21011  
+* s21011  ｢[BLEACH](https://bleach-anime.com/)｣
 * s21012  
 * s21013  
 * s21014  
