@@ -7,7 +7,7 @@
 * s21007 「[モブサイコ100](https://mobpsycho100.com/)」
 * s21009 「[ヒロアカ](https://heroaca.com/)」 
 * s21010  
-* s21011  
+* s21011  ｢[BLEACH](https://bleach-anime.com/)｣
 * s21012  
 * s21013 「[ドラゴンボール](https://www.toei-anim.co.jp/tv/dragon_s/)」 
 * s21014  
