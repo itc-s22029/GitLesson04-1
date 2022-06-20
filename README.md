@@ -11,8 +11,8 @@
 * s21012  
 * s21013  
 * s21014  
-* s21015 「[SPY×FAMILY](https://www.youtube.com/watch?v=pXH1bV7URhs&t=1s)」 
-* s21016  
+* s21015 「[SPY×FAMILY](https://www.youtube.com/watch?v=pXH1bV7URhs&t=1s)」  
+* s21016 「[鬼灯の冷徹](http://www.hozukino-reitetsu.com/)」  
 * s21017  
 * s21018  
 * s21019  
