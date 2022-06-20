@@ -14,7 +14,7 @@
 * s21015 「[SPY×FAMILY](https://www.youtube.com/watch?v=pXH1bV7URhs&t=1s)」 
 * s21016  
 * s21017  
-* s21018  
+* s21018  「[fate](https://anime.fate-go.jp/ep7-tv/)
 * s21019  
 * s21020  「[86-エイティシックス-](https://anime-86.com/)」  
 * s21021  
