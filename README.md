@@ -8,7 +8,7 @@
 * s21009 「[ヒロアカ](https://heroaca.com/)」 
 * s21010 「[Fate/Zero](https://www.fate-zero.jp/)」
 * s21011  ｢[BLEACH](https://bleach-anime.com/)｣
-* s21012  
+* s21012  ｢[ワールドトリガー](https://www.toei-anim.co.jp/tv/wt/)｣
 * s21013 「[ドラゴンボール](https://www.toei-anim.co.jp/tv/dragon_s/)」 
 * s21014  
 * s21015 「[SPY×FAMILY](https://www.youtube.com/watch?v=pXH1bV7URhs&t=1s)」  
