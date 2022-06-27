@@ -3,7 +3,7 @@
 * m-akamine 「[ONE PIECE](https://one-piece.com/)」  
 * s21002 「[小林さんちのメイドラゴン](https://maidragon.jp/2nd/)」 
 * s21004  
-* s21005  
+* s21005 「[ようじつ](http://you-zitsu.com/)」 
 * s21007 「[モブサイコ100](https://mobpsycho100.com/)」
 * s21009 「[ヒロアカ](https://heroaca.com/)」 
 * s21010  
