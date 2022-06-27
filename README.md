@@ -2,7 +2,7 @@
 
 * m-akamine 「[ONE PIECE](https://one-piece.com/)」  
 * s21002  
-* s21004  「[チェンソーマン]」(https://chainsawman.dog/)
+* s21004  「[ドリフターズ](https://www.nbcuni.co.jp/rondorobe/anime/drifters/)」
 * s21005  
 * s21007 「[モブサイコ100](https://mobpsycho100.com/)」
 * s21009 「[ヒロアカ](https://heroaca.com/)」 
