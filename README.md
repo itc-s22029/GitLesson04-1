@@ -14,7 +14,7 @@
 * s21015 「[SPY×FAMILY](https://www.youtube.com/watch?v=pXH1bV7URhs&t=1s)」  
 * s21016 「[鬼灯の冷徹](http://www.hozukino-reitetsu.com/)」  
 * s21017 「[弱虫ペダル](https://www.tv-tokyo.co.jp/anime/yowapeda/)」
-* s21018  「[fate](https://anime.fate-go.jp/ep7-tv/)
+* s21018  「[fate](https://anime.fate-go.jp/ep7-tv/)」  
 * s21019  「[暗殺教室](https://www.ansatsu-anime.com/)」
 * s21020  「[86-エイティシックス-](https://anime-86.com/)」  
 * s21021  
