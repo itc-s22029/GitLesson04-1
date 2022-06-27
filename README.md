@@ -10,7 +10,7 @@
 * s21011  ｢[BLEACH](https://bleach-anime.com/)｣
 * s21012  
 * s21013 「[ドラゴンボール](https://www.toei-anim.co.jp/tv/dragon_s/)」 
-* s21014  
+* s21014 「[名探偵コナン](https://www.ytv.co.jp)」 
 * s21015 「[SPY×FAMILY](https://www.youtube.com/watch?v=pXH1bV7URhs&t=1s)」  
 * s21016 「[鬼灯の冷徹](http://www.hozukino-reitetsu.com/)」  
 * s21017  
