@@ -15,7 +15,7 @@
 * s21016 「[鬼灯の冷徹](http://www.hozukino-reitetsu.com/)」  
 * s21017  
 * s21018  「[fate](https://anime.fate-go.jp/ep7-tv/)
-* s21019  
+* s21019  「[暗殺教室](https://www.ansatsu-anime.com/)」
 * s21020  「[86-エイティシックス-](https://anime-86.com/)」  
 * s21021  
 * s21022  「[うちの３姉妹](https://ameblo.jp/pmatsumoto/)」
