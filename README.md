@@ -13,7 +13,7 @@
 * s21014  
 * s21015 「[SPY×FAMILY](https://www.youtube.com/watch?v=pXH1bV7URhs&t=1s)」  
 * s21016 「[鬼灯の冷徹](http://www.hozukino-reitetsu.com/)」  
-* s21017  
+* s21017 「[弱虫ペダル](https://www.tv-tokyo.co.jp/anime/yowapeda/)」
 * s21018  
 * s21019  
 * s21020  「[86-エイティシックス-](https://anime-86.com/)」  
