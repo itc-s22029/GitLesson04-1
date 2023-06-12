@@ -1,6 +1,7 @@
 # あなたのいま1番押しのアニメはなんですか？
 
 * m-akamine 「[ONE PIECE](https://one-piece.com/)」  
+* s22001 「[ブラッククローバー](https://bclover.jp/)」 
 * s21002 「[小林さんちのメイドラゴン](https://maidragon.jp/2nd/)」 
 * s21004  「[ドリフターズ](https://www.nbcuni.co.jp/rondorobe/anime/drifters/)」
 * s21005 「[ようじつ](http://you-zitsu.com/)」 
