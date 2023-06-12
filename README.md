@@ -1,7 +1,7 @@
 # あなたのいま1番押しのアニメはなんですか？
 
 * m-akamine 「[ONE PIECE](https://one-piece.com/)」  
-* s21002 「[小林さんちのメイドラゴン](https://maidragon.jp/2nd/)」 
+* s22002 「[聲の形](http://koenokatachi-movie.com/)」 
 * s22004  「[ドリフターズ](https://www.nbcuni.co.jp/rondorobe/anime/drifters/)」
 * s21005 「[ようじつ](http://you-zitsu.com/)」 
 * s21007 「[モブサイコ100](https://mobpsycho100.com/)」
