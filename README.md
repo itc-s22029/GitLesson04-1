@@ -26,4 +26,5 @@
 * s22025  「[Peppa Pig](https://www.peppapig.com/en-us)」
 * s22026  「[暗殺教室](https://www.ansatsu-anime.com/)」
 * s22028  「[ワールドトリガー](https://www.toei-anim.co.jp/tv/wt/)」
+* s22029  「[キングダム](https://kingdom-anime.com/)
 * s22030 「[ミカグラ学園組曲](http://mikagura-gakuen.com/)」
