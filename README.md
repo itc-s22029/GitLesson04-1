@@ -18,6 +18,6 @@
 * s21019  「[暗殺教室](https://www.ansatsu-anime.com/)」
 * s21020  「[86-エイティシックス-](https://anime-86.com/)」  
 * s21021  
-* s21022  「[うちの３姉妹](https://ameblo.jp/pmatsumoto/)」
+* s22022  「[終末のハーレム](https://end-harem-anime.com/)」
 * s21023  「[コードギアス反逆のルルーシュ](https://geass.jp/first/)」
 * s21025  「[かぐや様は告らせたい](https://kaguya.love/)」
