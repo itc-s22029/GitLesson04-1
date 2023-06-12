@@ -23,4 +23,4 @@
 * s22024  「[かぐや様は告らせたい](https://kaguya.love/)」
 * s21025  「[かぐや様は告らせたい](https://kaguya.love/)」
 * s22026  「[暗殺教室](https://www.ansatsu-anime.com/)」
-
+* s22028  「[ワールドトリガー](https://www.toei-anim.co.jp/tv/wt/)」
