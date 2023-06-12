@@ -6,6 +6,7 @@
 * s22004  「[ドリフターズ](https://www.nbcuni.co.jp/rondorobe/anime/drifters/)」 
 * s21005 「[ようじつ](http://you-zitsu.com/)」 
 * s22007 「[からかい上手の高木さん](https://takagi3.me/)」
+* s22008  「[湾岸MIDNIGHT](https://magazine.yanmaga.jp/c/wanganmidnight/)」
 * s21009 「[ヒロアカ](https://heroaca.com/)」 
 * s21010 「[Fate/Zero](https://www.fate-zero.jp/)」
 * s22011  ｢[ドラえもん](https://dora-world.com/)｣ 
