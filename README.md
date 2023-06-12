@@ -16,7 +16,7 @@
 * s21016 「[鬼灯の冷徹](http://www.hozukino-reitetsu.com/)」  
 * s22017 「[SAKAMOTO DAYS](https://www.shonenjump.com/j/rensai/sakamoto.html)」
 * s21018  「[fate](https://anime.fate-go.jp/ep7-tv/)」  
-* s21019  「[暗殺教室](https://www.ansatsu-anime.com/)」
+* s22019  「[頭文字D](https://initiald-portal.com/)」
 * s22020  「[鋼の錬金術師](https://www.hagaren.jp/)」
 * s22021  「[ホリミヤ](https://horimiya-anime.com/)」
 * s22022  「[終末のハーレム](https://end-harem-anime.com/)」
