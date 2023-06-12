@@ -21,5 +21,4 @@
 * s21022  「[うちの３姉妹](https://ameblo.jp/pmatsumoto/)」
 * s21023  「[コードギアス反逆のルルーシュ](https://geass.jp/first/)」
 * s21025  「[かぐや様は告らせたい](https://kaguya.love/)」
-
 * s22020  「[鋼の錬金術師](https://www.hagaren.jp/)」
