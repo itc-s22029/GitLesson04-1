@@ -17,12 +17,10 @@
 * s21018  「[fate](https://anime.fate-go.jp/ep7-tv/)」  
 * s21019  「[暗殺教室](https://www.ansatsu-anime.com/)」
 * s22020  「[鋼の錬金術師](https://www.hagaren.jp/)」
-* s21021  
+* s22021  「[ホリミヤ](https://horimiya-anime.com/)」
 * s22022  「[終末のハーレム](https://end-harem-anime.com/)」
 * s21023  「[コードギアス反逆のルルーシュ](https://geass.jp/first/)」
-* s22025  「[Peppa Pig](https://www.peppapig.com/en-us)」
-* s22020  「[鋼の錬金術師](https://www.hagaren.jp/)」
 * s22024  「[かぐや様は告らせたい](https://kaguya.love/)」
-* s21025  「[かぐや様は告らせたい](https://kaguya.love/)」
+* s22025  「[Peppa Pig](https://www.peppapig.com/en-us)」
 * s22026  「[暗殺教室](https://www.ansatsu-anime.com/)」
 * s22028  「[ワールドトリガー](https://www.toei-anim.co.jp/tv/wt/)」
