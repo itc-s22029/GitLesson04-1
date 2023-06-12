@@ -7,7 +7,7 @@
 * s21007 「[モブサイコ100](https://mobpsycho100.com/)」
 * s21009 「[ヒロアカ](https://heroaca.com/)」 
 * s21010 「[Fate/Zero](https://www.fate-zero.jp/)」
-* s21011  ｢[BLEACH](https://bleach-anime.com/)｣
+* s22011  ｢[ドラえもん](https://dora-world.com/)｣
 * s21012  ｢[ワールドトリガー](https://www.toei-anim.co.jp/tv/wt/)｣
 * s21013 「[ドラゴンボール](https://www.toei-anim.co.jp/tv/dragon_s/)」 
 * s21014 「[名探偵コナン](https://www.ytv.co.jp)」 
