@@ -16,10 +16,11 @@
 * s22017 「[SAKAMOTO DAYS](https://www.shonenjump.com/j/rensai/sakamoto.html)」
 * s21018  「[fate](https://anime.fate-go.jp/ep7-tv/)」  
 * s21019  「[暗殺教室](https://www.ansatsu-anime.com/)」
-* s21020  「[86-エイティシックス-](https://anime-86.com/)」  
+* s22020  「[鋼の錬金術師](https://www.hagaren.jp/)」
 * s21021  
 * s21022  「[うちの３姉妹](https://ameblo.jp/pmatsumoto/)」
 * s21023  「[コードギアス反逆のルルーシュ](https://geass.jp/first/)」
-* s21025  「[かぐや様は告らせたい](https://kaguya.love/)」
-* s22020  「[鋼の錬金術師](https://www.hagaren.jp/)」
 * s22024  「[かぐや様は告らせたい](https://kaguya.love/)」
+* s21025  「[かぐや様は告らせたい](https://kaguya.love/)」
+* s22026  「[暗殺教室](https://www.ansatsu-anime.com/)」
+
