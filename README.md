@@ -10,7 +10,7 @@
 * s21010 「[Fate/Zero](https://www.fate-zero.jp/)」
 * s22011  ｢[ドラえもん](https://dora-world.com/)｣ 
 * s22012  ｢[ワールドトリガー](https://www.toei-anim.co.jp/tv/wt/)｣ 
-* s21013 「[ドラゴンボール](https://www.toei-anim.co.jp/tv/dragon_s/)」 
+* s22013 「[推しの子](https://ichigoproduction.com/)」 
 * s21014 「[名探偵コナン](https://www.ytv.co.jp)」 
 * s21015 「[SPY×FAMILY](https://www.youtube.com/watch?v=pXH1bV7URhs&t=1s)」  
 * s21016 「[鬼灯の冷徹](http://www.hozukino-reitetsu.com/)」  
