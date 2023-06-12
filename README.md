@@ -17,7 +17,8 @@
 * s21018  「[fate](https://anime.fate-go.jp/ep7-tv/)」  
 * s21019  「[暗殺教室](https://www.ansatsu-anime.com/)」
 * s21020  「[86-エイティシックス-](https://anime-86.com/)」  
-* s21021  
+* s22021  「[ホリミヤ](https://horimiya-anime.com/)」
 * s21022  「[うちの３姉妹](https://ameblo.jp/pmatsumoto/)」
 * s21023  「[コードギアス反逆のルルーシュ](https://geass.jp/first/)」
 * s21025  「[かぐや様は告らせたい](https://kaguya.love/)」
+」
