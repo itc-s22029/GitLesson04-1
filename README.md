@@ -14,7 +14,7 @@
 * s22013 「[推しの子](https://ichigoproduction.com/)」 
 * s21014 「[名探偵コナン](https://www.ytv.co.jp)」 
 * s21015 「[SPY×FAMILY](https://www.youtube.com/watch?v=pXH1bV7URhs&t=1s)」  
-* s21016 「[鬼灯の冷徹](http://www.hozukino-reitetsu.com/)」  
+* s22016 「[僕のヒーローアカデミア](https://heroaca.com/)」  
 * s22017 「[SAKAMOTO DAYS](https://www.shonenjump.com/j/rensai/sakamoto.html)」
 * s21018  「[fate](https://anime.fate-go.jp/ep7-tv/)」  
 * s22019  「[頭文字D](https://initiald-portal.com/)」
