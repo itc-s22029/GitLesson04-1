@@ -5,7 +5,7 @@
 * s22002 「[聲の形](http://koenokatachi-movie.com/)」 
 * s22003  
 * s22004  「[ドリフターズ](https://www.nbcuni.co.jp/rondorobe/anime/drifters/)」 
-* s22006  
+* s22006 「[クラナド](https://www.tbs.co.jp/clannad/clannad1/)」
 * s22007 「[からかい上手の高木さん](https://takagi3.me/)」
 * s22008  「[湾岸MIDNIGHT](https://magazine.yanmaga.jp/c/wanganmidnight/)」
 * s22009   
